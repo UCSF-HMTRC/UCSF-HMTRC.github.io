@@ -11,7 +11,7 @@ newsletter_action:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: HP C-13 Imaging Parameters
-author:UCSF HMTRC
+author: UCSF HMTRC
   name: UCSF HMTRC
   email: hyperpolarizedmri@ucsf.edu
   twitter: # UCSFHMTRC
