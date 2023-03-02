@@ -2,7 +2,7 @@
 # Site
 
 title: HMTRC
-url: "https://orange-ape.cloudvent.net/"
+url: "https://hyperpolarizedmri.ucsf.edu/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -74,16 +74,10 @@ defaults:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
-  - YouTube
   - Email
-  - RSS
+
 
 types:
   - Document
