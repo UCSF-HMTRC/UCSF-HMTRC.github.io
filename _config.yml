@@ -10,13 +10,13 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: HP C-13 Imaging Parameters
+author:UCSF HMTRC
+  name: UCSF HMTRC
+  email: hyperpolarizedmri@ucsf.edu
+  twitter: # UCSFHMTRC
 social:
-  name: Base Template
+  name: UCSF HMTRC
   links:
     - https://github.com/CloudCannon/base-jekyll-template
 
